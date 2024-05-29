@@ -1,4 +1,4 @@
 # MyGithub-demo
-This is demo Repo
+This is My First Github Repository. 
 <br>
 Author -- Lokesh Nogia.
